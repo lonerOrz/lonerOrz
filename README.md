@@ -1,4 +1,8 @@
+<div id="title" align=center>
 
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=loner's+GitHub+Page!
+![Modern C++ template][github-sub-title:img]
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -7,3 +11,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+
+![](https://img.shields.io/badge/讨厌-学习-green) 
+![](https://img.shields.io/badge/MBTI-INFP-red) 
+![](https://img.shields.io/badge/爱好-二次元-bule)
