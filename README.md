@@ -26,10 +26,12 @@
 
 ### 💬 About Me
 
-- 🌱 I’m currently learning **Nix** and **Rust**
-- 🐧 Linux user, loves CLI tools and automation
-- 📫 Reach me via: **hefeihe1109@gmail.com**
-- 💼 I’m looking for a **programming job**, preferably remote
+<p>🌱 I’m currently learning <strong>Nix</strong> and <strong>Rust</strong></p>
+<p>🐧 Linux user, loves CLI tools and automation</p>
+<p>📫 Email: <a href="mailto:hefeihe1109@gmail.com">hefeihe1109@gmail.com</a></p>
+<p>🌐 Blog: <a href="https://loner-orz-github-io.vercel.app">loner-orz-github-io.vercel.app</a></p>
+<p>📄 Resume: <a href="https://loner-liveterm.vercel.app/">loner-liveterm.vercel.app</a></p>
+<p>💼 I’m looking for a <strong>programming job</strong>, preferably remote</p>
 
 ---
 
