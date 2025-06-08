@@ -5,12 +5,24 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=👋+Welcome+to+lonerOrz's+GitHub!;✨+Nix,+Rust,+Linux,+Dev+Logs..." alt="Typing SVG" />
 </p>
 
+<!-- GitHub 连续提交 -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-five-sandy-92.vercel.app?user=lonerOrz&theme=tokyonight-duo&hide_border=true" />
+</p>
+
 <!-- GitHub 统计 -->
 <p align="center">
   <a href="https://space.bilibili.com/439989352">
     <img src="https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
+
+<!-- GitHub 奖杯 -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true&column=-1" />
+</p>
+
+---
 
 <!-- 贪吃蛇图 -->
 <p align="center">
@@ -20,6 +32,15 @@
     <img alt="GitHub Snake" src="https://cdn.jsdelivr.net/gh/lonerOrz/lonerOrz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+
+---
+
+### 💬 About Me
+
+- 🌱 I’m currently learning **Nix** and **Rust**
+- 🐧 Linux user, loves CLI tools and automation
+- 📫 Reach me via: **hefeihe1109@gmail.com**
+- 💼 I’m looking for a **programming job**, preferably remote
 
 ---
 
@@ -39,30 +60,5 @@
   <img src="https://img.shields.io/github/stars/lonerOrz?style=flat-square&label=Stars" />
   <img src="https://komarev.com/ghpvc/?username=lonerOrz&style=flat-square&label=Profile+Views" />
 </p>
-
----
-
-### 💬 About Me
-
-- 🌱 I’m currently learning **Nix** and **Rust**
-- 🐧 Linux user, loves CLI tools and automation
-- 📫 Reach me via: **hefeihe1109@gmail.com**
-- 💼 I’m looking for a **programming job**, preferably remote
-
----
-
-<!-- GitHub 奖杯 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true" />
-</p>
-
----
-
-<!-- GitHub 连续提交 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats-five-sandy-92.vercel.app?user=lonerOrz&theme=tokyonight-duo&hide_border=true" />
-</p>
-
----
 
 </div>
