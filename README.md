@@ -10,11 +10,10 @@
 - 📫 I am looking for a programming job
 
 ---
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C&no-bg=true&no-frame=true" /> </div>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lonerOrz)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-five-sandy-92.vercel.app?user=lonerOrz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 ---
 
 
