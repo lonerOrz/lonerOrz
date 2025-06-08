@@ -1,28 +1,47 @@
-<div id="title" align=center>
+<div align="center" id="title">
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=loner's+GitHub+Page!
-![Modern C++ template][github-sub-title:img]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight)](https://space.bilibili.com/439989352)
+<!-- 动态打字标题 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=loner's+GitHub+Page!" alt="Typing SVG" />
+</p>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lonerOrz/lonerOrz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lonerOrz/lonerOrz/profile-snake-contrib/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lonerOrz/lonerOrz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- GitHub 统计卡片 -->
+<p align="center">
+  <a href="https://space.bilibili.com/439989352">
+    <img src="https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight" alt="lonerOrz GitHub stats" />
+  </a>
+</p>
+
+<!-- 贪吃蛇贡献图 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lonerOrz/lonerOrz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lonerOrz/lonerOrz/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Contribution Graph" src="https://cdn.jsdelivr.net/gh/lonerOrz/lonerOrz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
-- 🌱 I’m currently learning nix
-- 💬 How to reach me, email: hefeihe1109@gmail.com
-- 📫 I am looking for a programming job
+
+- 🌱 I’m currently learning **Nix**
+- 💬 How to reach me: **hefeihe1109@gmail.com**
+- 📫 I am looking for a **programming job**
 
 ---
+
 <!-- GitHub 奖杯🏆 -->
-<div> <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true" /><br/> </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-[![GitHub Streak](https://github-readme-streak-stats-five-sandy-92.vercel.app?user=lonerOrz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+<!-- 连续提交天数 -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-five-sandy-92.vercel.app?user=lonerOrz&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
