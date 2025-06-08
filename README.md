@@ -2,7 +2,7 @@
 
 <!-- 打字标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=👋+Welcome+to+lonerOrz's+GitHub!;✨+Nix,+Rust,+Linux,+Dev+Logs..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=👋+Welcome+to+lonerOrz's+GitHub!" alt="Typing SVG" />
 </p>
 
 <!-- GitHub 连续提交 -->
@@ -20,17 +20,6 @@
 <!-- GitHub 奖杯 -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true&column=-1" />
-</p>
-
----
-
-<!-- 贪吃蛇图 -->
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lonerOrz/lonerOrz/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lonerOrz/lonerOrz/output/github-contribution-grid-snake.svg" />
-      <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lonerOrz/lonerOrz/output/github-contribution-grid-snake.svg" />
-    </picture>
 </p>
 
 ---
