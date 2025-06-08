@@ -10,7 +10,7 @@
 - 📫 I am looking for a programming job
 
 ---
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C&no-bg=true&no-frame=true" /> </div>
+<div style="text-align: center;"> <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true" /> </div>
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats-five-sandy-92.vercel.app?user=lonerOrz&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
