@@ -19,7 +19,7 @@
 
 <!-- GitHub 奖杯 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 <p>📫 Email: <a href="mailto:hefeihe1109@gmail.com">hefeihe1109@gmail.com</a></p>
 <p>🌐 Blog: <a href="https://loner-orz-github-io.vercel.app">loner-orz-github-io.vercel.app</a></p>
 <p>📄 Resume: <a href="https://loner-liveterm.vercel.app/">loner-liveterm.vercel.app</a></p>
-<p>💼 I’m looking for a <strong>programming job</strong>, preferably remote</p>
+<p>💼 I’m looking for a <strong>programming job</strong></p>
 
 ---
 
