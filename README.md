@@ -12,9 +12,7 @@
 
 <!-- GitHub 统计 -->
 <p align="center">
-  <a href="https://space.bilibili.com/439989352">
     <img src="https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
 </p>
 
 <!-- GitHub 奖杯 -->
