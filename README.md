@@ -7,7 +7,7 @@
 
 <!-- GitHub 连续提交 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-five-sandy-92.vercel.app?user=lonerOrz&theme=tokyonight-duo&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=lonerOrz&theme=tokyonight-duo&hide_border=true" />
 </p>
 
 <!-- GitHub 统计 -->
