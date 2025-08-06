@@ -2,20 +2,28 @@
 
 <!-- 打字标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=👋+Welcome+to+lonerOrz's+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+lonerOrz's+GitHub!" alt="Typing SVG" />
 </p>
 
-<!-- GitHub 连续提交 -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lonerOrz&theme=tokyonight-duo&hide_border=true" />
-</p>
+<!-- 个人状况和 GitHub Stats 并排 -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; width: 100%;">
 
-<!-- GitHub 统计 -->
-<p align="center">
-  <a href="https://space.bilibili.com/439989352">
+  <!-- 个人状况部分（自定义内容） -->
+  <div style="text-align: left; max-width: 400px;">
+    <p>🚀 I'm passionate about programming and open source.</p>
+    <p>🌱 Currently learning <strong>Nix</strong> and <strong>Rust</strong>!</p>
+    <p>💻 Linux user, love building custom workflows with CLI tools & automation.</p>
+    <p>🎯 My goal is to grow as a <strong>Rust</strong> and <strong>DevOps</strong> engineer.</p>
+    <p>📫 Feel free to reach me at: <a href="mailto:hefeihe1109@gmail.com">hefeihe1109@gmail.com</a></p>
+    <p>🌐 Visit my blog: <a href="https://loner-orz-github-io.vercel.app">loner-orz-github-io.vercel.app</a></p>
+  </div>
+
+  <!-- GitHub Stats -->
+  <div style="text-align: right; flex-shrink: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
+  </div>
+
+</div>
 
 <!-- GitHub 奖杯 -->
 <p align="center">
@@ -24,18 +32,8 @@
 
 ---
 
-### 💬 About Me
+### 🛠️ Technologies I Use
 
-<p>🌱 I’m currently learning <strong>Nix</strong> and <strong>Rust</strong></p>
-<p>🐧 Linux user, loves CLI tools and automation</p>
-<p>📫 Email: <a href="mailto:hefeihe1109@gmail.com">hefeihe1109@gmail.com</a></p>
-<p>🌐 Blog: <a href="https://loner-orz-github-io.vercel.app">loner-orz-github-io.vercel.app</a></p>
-<p>📄 Resume: <a href="https://loner-liveterm.vercel.app/">loner-liveterm.vercel.app</a></p>
-<p>💼 I’m looking for a <strong>programming job</strong></p>
-
----
-
-<!-- 技术栈徽章 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Nix-%23282c34.svg?style=flat&logo=nixos&logoColor=white" />
@@ -52,5 +50,4 @@
   <img src="https://komarev.com/ghpvc/?username=lonerOrz&style=flat-square&label=Profile+Views" />
 </p>
 
-<!-- test -->
 </div>
