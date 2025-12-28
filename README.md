@@ -20,14 +20,14 @@
 
   <!-- GitHub Stats -->
   <div style="text-align: right; flex-shrink: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://https://https://streak-stats.demolab.com/?username=lonerOrz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </div>
 
 </div>
 
 <!-- GitHub 奖杯 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-gold.vercel.app/?username=lonerOrz&theme=dracula&rank=-C,-?&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
 
 ---
