@@ -1,14 +1,12 @@
 <div align="center">
 
-<h1>lonerOrz</h1>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=lonerOrz's+GitHub!" alt="Typing SVG" />
+</p>
 
 <p>
 Infrastructure · DevOps · Automation
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lonerOrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonerOrz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
 </div>
 
 ---
@@ -37,10 +35,7 @@ Currently working with **Rust**, **Nix**, and Linux ecosystems to build reliable
 
 ## Engineering Principles
 
-```text
-• Reproducibility over convenience
-• Automation over repetition
-• Observability over assumption
-• Simplicity over complexity
-```
-
+- Reproducibility over convenience
+- Automation over repetition
+- Observability over assumption
+- Simplicity over complexity
