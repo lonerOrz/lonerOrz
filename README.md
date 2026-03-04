@@ -14,8 +14,8 @@
     <p>🌱 Currently learning <strong>Nix</strong> and <strong>Rust</strong>!</p>
     <p>💻 Linux user, love building custom workflows with CLI tools & automation.</p>
     <p>🎯 My goal is to grow as a <strong>Rust</strong> and <strong>DevOps</strong> engineer.</p>
-    <p>📫 Feel free to reach me at: <a href="mailto:hefeihe1109@gmail.com">hefeihe1109@gmail.com</a></p>
-    <p>🌐 Visit my blog: <a href="https://loner-orz-github-io.vercel.app">loner-orz-github-io.vercel.app</a></p>
+    <p>📫 Feel free to reach me at: <a href="mailto:lonerOrz@qq.com">lonerOrz@qq.com</a></p>
+    <p>🌐 Visit my blog: <a href="https://astro-blog-rosy.vercel.app/">lonerOrz-blog</a></p>
   </div>
 
   <!-- GitHub Stats -->
