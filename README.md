@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- 顶部 SVG 打字机 -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=lonerOrz's+GitHub!" alt="Typing SVG" style="margin-bottom:8px;" />
-
-<!-- 简短描述 -->
-<div style="font-size:18px; color:gray; margin-bottom:20px;">
-Infrastructure · DevOps · Automation
-</div>
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&multiline=true&width=600&lines=lonerOrz's+GitHub!" alt="Typing SVG" style="margin-bottom:8px;" /> -->
 
 <!-- 头像 + 用户名 -->
 <img src="https://github.com/lonerOrz.png" width="80" style="border-radius:50%; margin-bottom:8px;" alt="lonerOrz Avatar" />
 <div style="font-size:22px; font-weight:bold; margin-bottom:16px;">
 lonerOrz
+</div>
+
+<!-- 简短描述 -->
+<div style="font-size:18px; color:gray; margin-bottom:20px;">
+Infrastructure · DevOps · Automation
 </div>
 
 <!-- Profile 内容 -->
@@ -26,7 +26,7 @@ Contact: <a href="mailto:lonerOrz@qq.com">lonerOrz@qq.com</a> | Blog: <a href="h
 
 ## Core Stack
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=rust,nix,linux,docker,git,githubactions,neovim" />
 </p>
 
