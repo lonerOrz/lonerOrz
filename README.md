@@ -10,10 +10,12 @@
 
 </div>
 
+<br/>
+
 <!-- 个人状况和 GitHub Stats 并排 -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+
+<div style="flex: 1; min-width: 0;">
 
 ### 👋 About Me
 
@@ -29,16 +31,17 @@
 
 🌐 Blog: [lonerOrz-blog](https://astro-blog-rosy.vercel.app/)
 
-    </td>
-    <td valign="top" width="50%" align="center">
+</div>
+
+<div style="flex-shrink: 0;">
 
 ### 🔥 GitHub Stats
 
 <img src="https://streak-stats.demolab.com/?username=lonerOrz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-    </td>
-  </tr>
-</table>
+</div>
+
+</div>
 
 ---
 
