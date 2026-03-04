@@ -13,21 +13,23 @@ Infrastructure · DevOps · Automation
 
 ## Profile
 
-DevOps-focused engineer interested in:
+<p align="center">
+  <img src="https://github.com/lonerOrz.png" width="60" style="border-radius:50%; vertical-align: middle;" alt="lonerOrz Avatar" />
+  <span style="font-size:22px; font-weight:bold; vertical-align: middle; margin-left: 10px;">lonerOrz</span>
+</p>
 
-- Infrastructure as Code
-- Reproducible systems
-- CI/CD pipeline design
-- Linux-based production environments
-- Automation tooling
-
-Currently working with **Rust**, **Nix**, and Linux ecosystems to build reliable developer workflows.
+<p align="center">
+I'm a software engineer focused on Rust, Linux, and automation.
+I enjoy building reproducible workflows, working with CI/CD pipelines, and exploring new tools in infrastructure and DevOps.
+Currently learning Nix and experimenting with developer tooling to improve productivity.
+Contact: <a href="mailto:lonerOrz@qq.com">lonerOrz@qq.com</a> | Blog: <a href="https://astro-blog-rosy.vercel.app/">lonerOrz-blog</a>
+</p>
 
 ---
 
 ## Core Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=rust,nix,linux,docker,git,githubactions,neovim" />
 </p>
 
